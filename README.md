@@ -19,6 +19,4 @@ I'm currently learning Graphics <br>Engineering and working <br>with OpenGL
 ![](https://github-contributor-stats.vercel.app/api?username=TheMrPumpkin&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-![](https://komarev.com/ghpvc/?username=TheMrPumpkin&style=flat-square&color=blue)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
